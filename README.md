@@ -1,3 +1,3 @@
 # Power-BI
 
-## This shows my powerbi projecty
+## This shows my powerbi project
